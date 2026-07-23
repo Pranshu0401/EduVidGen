@@ -1,0 +1,15 @@
+# Node (frontend)
+node_modules/
+.next/
+.env.local
+
+# Python (backend)
+__pycache__/
+*.pyc
+myenv/
+.env
+media/
+
+# Common
+.env
+.DS_Store
