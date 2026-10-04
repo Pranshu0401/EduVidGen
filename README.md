@@ -131,4 +131,4 @@ Below are some screenshots to illustrate the main features and UI of EduVidGenAi
 
 - [Manim Community](https://www.manim.community/)
 - [Gemini](https://gemini.google.com/)
-- [Supabase](https://supabase.com/)
+- [Supabase](https://supabase.com/).
